@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/podhajsky.portfolio/static/css/main.40102fdc.css",
-    "main.js": "/podhajsky.portfolio/static/js/main.ab472cc7.js",
-    "static/media/challenge6.weather.PNG": "/podhajsky.portfolio/static/media/challenge6.weather.880e58ce0aa6fc1970be.PNG",
-    "static/media/profilepic (2).jpg": "/podhajsky.portfolio/static/media/profilepic (2).bdbb17976b104d624069.jpg",
-    "static/media/nosql.PNG": "/podhajsky.portfolio/static/media/nosql.fdc8668ff68c0488c61a.PNG",
-    "static/media/tctgy.PNG": "/podhajsky.portfolio/static/media/tctgy.7030b0969314f08fa3e5.PNG",
-    "static/media/challenge5.scheduler.PNG": "/podhajsky.portfolio/static/media/challenge5.scheduler.a9c6afd2dfb44a2a5504.PNG",
-    "static/media/profiles.png": "/podhajsky.portfolio/static/media/profiles.a806550dadca89f88b2a.png",
-    "static/media/notes.png": "/podhajsky.portfolio/static/media/notes.e50957839f511a89170e.png",
-    "index.html": "/podhajsky.portfolio/index.html",
-    "main.40102fdc.css.map": "/podhajsky.portfolio/static/css/main.40102fdc.css.map",
-    "main.ab472cc7.js.map": "/podhajsky.portfolio/static/js/main.ab472cc7.js.map"
+    "main.css": "/PodhajskyKL-Portfolio/static/css/main.40102fdc.css",
+    "main.js": "/PodhajskyKL-Portfolio/static/js/main.b5b5c128.js",
+    "static/media/challenge6.weather.PNG": "/PodhajskyKL-Portfolio/static/media/challenge6.weather.880e58ce0aa6fc1970be.PNG",
+    "static/media/profilepic (2).jpg": "/PodhajskyKL-Portfolio/static/media/profilepic (2).bdbb17976b104d624069.jpg",
+    "static/media/nosql.PNG": "/PodhajskyKL-Portfolio/static/media/nosql.fdc8668ff68c0488c61a.PNG",
+    "static/media/tctgy.PNG": "/PodhajskyKL-Portfolio/static/media/tctgy.7030b0969314f08fa3e5.PNG",
+    "static/media/challenge5.scheduler.PNG": "/PodhajskyKL-Portfolio/static/media/challenge5.scheduler.a9c6afd2dfb44a2a5504.PNG",
+    "static/media/profiles.png": "/PodhajskyKL-Portfolio/static/media/profiles.a806550dadca89f88b2a.png",
+    "static/media/notes.png": "/PodhajskyKL-Portfolio/static/media/notes.e50957839f511a89170e.png",
+    "index.html": "/PodhajskyKL-Portfolio/index.html",
+    "main.40102fdc.css.map": "/PodhajskyKL-Portfolio/static/css/main.40102fdc.css.map",
+    "main.b5b5c128.js.map": "/PodhajskyKL-Portfolio/static/js/main.b5b5c128.js.map"
   },
   "entrypoints": [
     "static/css/main.40102fdc.css",
-    "static/js/main.ab472cc7.js"
+    "static/js/main.b5b5c128.js"
   ]
 }
