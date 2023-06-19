@@ -1,0 +1,11 @@
+#information {
+    border-style: solid;
+    
+    width: 50%;
+    justify-content: right;
+    margin-bottom: 40px;
+}
+
+h3 {
+    font-size: 25px;
+}

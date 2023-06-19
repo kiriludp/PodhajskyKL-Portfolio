@@ -1,0 +1,30 @@
+
+
+.Title {
+    display: flex;
+    justify-content: left;
+    margin: 30px 0 0 15%;
+}
+
+.excerpt {
+    
+    width: 50%;
+    height: 50%;
+  
+    margin: 5% 0 0 10%;
+    
+}
+
+.pic {
+    display: flex;
+    justify-content: right;
+}
+
+img {
+    height: 250px;
+    border-radius: 50% 0 50% 0;
+    
+    
+    
+}
+

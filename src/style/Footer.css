@@ -1,0 +1,14 @@
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color:#fdc921;
+    background-color: #2a2e34;
+    height: 30px;
+    }
+
+    .sig {
+        text-align: center;
+
+    }

@@ -1,0 +1,17 @@
+
+.header {
+    height: 175px;
+}
+
+h1 {
+    padding: 15px;
+    margin-left: 25px;
+    font-size: 60px;
+}
+
+h3 { 
+    font-size: 30px;
+    margin-left: 100px;
+    padding-bottom: 25px;
+}
+
