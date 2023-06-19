@@ -1,6 +1,6 @@
 import React from 'react';
 import '../style/Header.css'
-import profpic from "../style/imgs/profilepic (2).jpg";
+
 export default function About () {
 
     const styles = {
