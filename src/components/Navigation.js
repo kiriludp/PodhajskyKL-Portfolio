@@ -3,6 +3,7 @@ import Container from 'react-bootstrap/Container';
  import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import "../style/Navigation.css"
+import { Link } from "react-router-dom"
 
 
 
@@ -14,10 +15,10 @@ export default function Navigation () {
     <Navbar className="navigation">
       <Container fluid className="nav">
       <Nav className="me-auto">
-        <Nav.Link href="/">About Me</Nav.Link>
-        <Nav.Link href="/portfolio">Portfolio</Nav.Link>
-        <Nav.Link href="/resume">Resume</Nav.Link>
-        <Nav.Link href="/contact">Contact</Nav.Link>
+        <Link to href="/">About Me</Link>
+        <Link to href="/portfolio">Portfolio</Link>
+        <Link to href="/resume">Resume</Link>
+        <Link to href="/contact">Contact</Link>
       </Nav>
       </Container>
   </Navbar>
