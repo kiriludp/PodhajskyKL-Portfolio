@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kiriludp/podhajsky.portfolio.git/static/css/main.40102fdc.css",
-    "main.js": "/kiriludp/podhajsky.portfolio.git/static/js/main.14b448f1.js",
+    "main.js": "/kiriludp/podhajsky.portfolio.git/static/js/main.1c711ab4.js",
     "static/media/challenge6.weather.PNG": "/kiriludp/podhajsky.portfolio.git/static/media/challenge6.weather.880e58ce0aa6fc1970be.PNG",
     "static/media/profilepic (2).jpg": "/kiriludp/podhajsky.portfolio.git/static/media/profilepic (2).bdbb17976b104d624069.jpg",
     "static/media/nosql.PNG": "/kiriludp/podhajsky.portfolio.git/static/media/nosql.fdc8668ff68c0488c61a.PNG",
@@ -11,10 +11,10 @@
     "static/media/notes.png": "/kiriludp/podhajsky.portfolio.git/static/media/notes.e50957839f511a89170e.png",
     "index.html": "/kiriludp/podhajsky.portfolio.git/index.html",
     "main.40102fdc.css.map": "/kiriludp/podhajsky.portfolio.git/static/css/main.40102fdc.css.map",
-    "main.14b448f1.js.map": "/kiriludp/podhajsky.portfolio.git/static/js/main.14b448f1.js.map"
+    "main.1c711ab4.js.map": "/kiriludp/podhajsky.portfolio.git/static/js/main.1c711ab4.js.map"
   },
   "entrypoints": [
     "static/css/main.40102fdc.css",
-    "static/js/main.14b448f1.js"
+    "static/js/main.1c711ab4.js"
   ]
 }
